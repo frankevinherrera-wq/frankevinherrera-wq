@@ -1,29 +1,30 @@
 <img align="right" src="https://count.getloli.com/get/@:Aurorp1g?theme=moebooru">
 
-## 一只努力学习的程序猿 — Aurorp1g <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" /> 
+## 一Dev Junior— frankevinherrera-wq <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" /> 
 
 <p align="center">
-  <a href="https://github.com/Aurorp1g">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=cyan&size=25&center=true&vCenter=true&width=1100&height=40&lines=Hello%2C+I%27m+Aurorp1g+from+Shantou%2C+Guangdong+%F0%9F%97%BB;Network+Engineering+Undergraduate+👨‍🎓;Researching+Cybersecurity%2C+Cryptography%2C+Reverse+Engineering%2C+Full+Stack+Dev+👨‍💻;Interested+in+Data+Structures%2C+Algorithms%2C+Coding%2C+and+Low-Level+Computing%20🚀;Welcome+to+My+Github%20🍨;">
-  </a>
+  <a href="https://github.com/frankevinherrera-wq">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=00D2FF&size=24&center=true&vCenter=true&width=1100&height=40&lines=Hello%2C+I'm+Fran+Kevin+Camacho+Herrera+from+Tarija%2C+Bolivia+%F0%9F%97%BB;Systems+Engineering+Student+%F0%9F%8E%93;Backend+Dev+%26+.NET+Architect+(C%23%2C+ASP.NET+Core%2C+EF+Core)+%F0%9F%92%BB;AI+Development+%26+RAG+Pipelines+(Python%2C+LangChain%2C+VectorDB)+%F0%A7%A7%A0;Linux+SysAdmin%2C+Shell+Scripting+%26+Embedded+Systems+(ESP32)+%F0%9F%9A%80;Welcome+to+my+GitHub!+%F0%9F%8F%A7">
+</a>
 </p>
 
-### 自我介绍 <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40" alt="about me"></picture>
+### About Me <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40" alt="about me"></picture>
 
 <div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" /></div>
 
-- 大家好，我是 Aurorp1g ，来自广东汕头🗻
-- 目前是一名网络工程在读本科生 👨‍🎓
-- 同时研究网络安全、密码学、逆向工程、全栈开发 👨‍💻
-- 对数据结构与算法、coding、底层计算机感兴趣 🚀
-- 欢迎光临我的Github 🍧
+- Hello everyone, I'm Fran Herrera, from Tarija, Bolivia 🏔️
+- Currently a Systems Engineering student 👨‍🎓
+- Specializing in Backend Development (.NET / C#) & AI Applications (Python, RAG) 🧠
+- Experienced in Linux Systems, Scripting & Embedded Systems 🚀
+- Interested in Data Structures, Systems Architecture &  💻
+- Welcome to my GitHub! 🍧
 
 
 ### 社交主页 💻
 - <a href="https://aurorp1g.github.io/"><img height="22" width="22" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/favicon.ico"></a>：这是我的个人网站 🌐
 - <a href="https://space.bilibili.com/2066996205"><img height="22" width="22" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/bilibili.ico"></a>：这是我的Bilibili主页 📺
 
-### 技术栈 🛠️
+### Stack technology 🛠️
 ![Python](https://img.shields.io/badge/-Python-%23fcc624?style=flat&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23ECD83E&color=%23ECD83E)
@@ -42,13 +43,15 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=vscode&logoColor=white)
 
 
-### 开源项目 <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=Yus_cipher&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Yus_cipher)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=Sensitive_Data_System&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Sensitive_Data_System)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=Happy_Birthday&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Happy_Birthday)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=Heart-notes&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Heart-notes)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=My-Heart&theme=github_dark_dimmed)](https://github.com/Aurorp1g/My-Heart)
+### Open-source project <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
+[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=frankevinherrera-wq&repo=Fire_AI_Tarija&theme=github_dark_dimmed)](https://github.com/frankevinherrera-wq/Fire_AI_Tarija)
+[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=frankevinherrera-wq&repo=Sensitive_Data_System&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Sensitive_Data_System)
+[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=frankevinherrera-wq&repo=Happy_Birthday&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Happy_Birthday)
+[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=frankevinherrera-wq&repo=Heart-notes&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Heart-notes)
+[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=frankevinherrera-wq&repo=My-Heart&theme=github_dark_dimmed)](https://github.com/Aurorp1g/My-Heart)
 <br>
+
+
 
 <div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Right_Side.gif" width="300" height="auto" /></div>
 
