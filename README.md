@@ -25,23 +25,13 @@
 
 ### 技术栈 🛠️
 ![Python](https://img.shields.io/badge/-Python-%23fcc624?style=flat&logo=Python)
-![C语言](https://img.shields.io/badge/-C%E8%AF%AD%E8%A8%80-%2313c9ae?style=flat&logo=C&logoColor=ffffff)
-![Java](https://img.shields.io/badge/-Java-%23972fcd?style=flat&logo=OPENJDK)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23ECD83E&color=%23ECD83E)
 ![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css)
 ![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat&logo=c%2B%2B&logoColor=ffffff )
-![Go](https://img.shields.io/badge/-Go-%2300ADD8?style=flat&logo=go&logoColor=ffffff )
-![EJS](https://img.shields.io/badge/-EJS-%23B4CA65?style=flat&logo=javascript&logoColor=000000 )
-![Pug](https://img.shields.io/badge/-Pug-%23a86454?style=flat&logo=pug&logoColor=ffffff )
-![Handlebars](https://img.shields.io/badge/-Handlebars-%23f0772b?style=flat&logo=handlebarsdotjs&logoColor=ffffff )
-![PHP](https://img.shields.io/badge/-PHP-%23777BB4?style=flat&logo=php&logoColor=ffffff )
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?style=flat&logo=TypeScript&logoColor=ffffff )
 ![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=shell&logoColor=ffffff)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
-![Conda](https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat&logo=React&logoColor=000000 )
 ![Node.js](https://img.shields.io/badge/-Node.js-%234a8e34?style=flat&logo=node.js&logoColor=ffffff )
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat&logo=Docker&logoColor=ffffff )
@@ -62,21 +52,14 @@
 
 <div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Right_Side.gif" width="300" height="auto" /></div>
 
-### 编程语言 <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
-<img align="center" src="https://github-vercel-deployment-seven.vercel.app/api/top-langs?username=Aurorp1g&show_icons=true&locale=en&layout=compact&langs_count=11&theme=github_dark_dimmed" alt="Aurorp1g" width="350" height="250">
+### programming languages <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
+<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=frankevinherrera-wq&show_icons=true&locale=en&layout=compact&langs_count=11&theme=github_dark_dimmed" alt="frankevinherrera-wq" width="350" height="250">
 
 ### Github 状态图 <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
-![Aurorp1g's github stats](https://github-vercel-deployment-seven.vercel.app/api?username=Aurorp1g&show_icons=true&theme=github_dark_dimmed&rank_icon=github)
+![frankevinherrera-wq's github stats](https://github-stats-extended.vercel.app/api?username=frankevinherrera-wq&show_icons=true&theme=github_dark_dimmed&rank_icon=github)
 
-### Github 贡献图 <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
-[![Aurorp1g's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aurorp1g&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-#
 
 ![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
 ![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
 
------
-Credits: [Aurorp1g](https://github.com/Aurorp1g)
-
-Last Edited on: 19/03/2026
