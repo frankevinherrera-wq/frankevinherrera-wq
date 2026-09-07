@@ -36,25 +36,13 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-### Stack technology 🛠️
-![Python](https://img.shields.io/badge/-Python-%23fcc624?style=flat&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23ECD83E&color=%23ECD83E)
-![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css)
-![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat&logo=c%2B%2B&logoColor=ffffff )
-![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?style=flat&logo=TypeScript&logoColor=ffffff )
-![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=shell&logoColor=ffffff)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
-![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat&logo=React&logoColor=000000 )
-![Node.js](https://img.shields.io/badge/-Node.js-%234a8e34?style=flat&logo=node.js&logoColor=ffffff )
-![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat&logo=Docker&logoColor=ffffff )
-![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=MySQL&logoColor=ffffff )
-![GitHub](https://img.shields.io/badge/-GitHub-%2320232a?style=flat&logo=github )
-![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat&logo=linux&logoColor=000000 )
-![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=vscode&logoColor=white)
+### Stack Technology 🛠️
 
-
+| Category | Technologies |
+| :--- | :--- |
+| **Backend & Architecture** | ![C#](https://img.shields.io/badge/-C%23-%23239120?style=flat&logo=c-sharp&logoColor=ffffff) ![.NET](https://img.shields.io/badge/-.NET-%23512BD4?style=flat&logo=dotnet&logoColor=ffffff) ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-%23512BD4?style=flat&logo=dotnet&logoColor=ffffff) ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=Python&logoColor=ffffff) ![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat&logo=c%2B%2B&logoColor=ffffff) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%234169E1?style=flat&logo=postgresql&logoColor=ffffff) ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=MySQL&logoColor=ffffff) ![SQLite](https://img.shields.io/badge/-SQLite-%23003B57?style=flat&logo=sqlite&logoColor=ffffff) |
+| **Frontend Development** | ![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?style=flat&logo=TypeScript&logoColor=ffffff) ![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat&logo=React&logoColor=000000) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000) ![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css&logoColor=ffffff) |
+| **Systems & DevOps** | ![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat&logo=linux&logoColor=000000) ![Shell](https://img.shields.io/badge/-Shell-%234EAA25?style=flat&logo=gnu-bash&logoColor=ffffff) ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat&logo=Docker&logoColor=ffffff) ![Git](https://img.shields.io/badge/-Git-%23F05033?style=flat&logo=git&logoColor=ffffff) ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat&logo=github&logoColor=ffffff) |
 ### Featured Projects 🚀
 
 <table>
