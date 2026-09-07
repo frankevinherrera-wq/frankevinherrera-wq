@@ -1,6 +1,7 @@
-<img align="right" src="https://count.getloli.com/get/@:Aurorp1g?theme=moebooru">
+<img align="right" src="https://count.getloli.com/get/@:frankevinherrera-wq?theme=moebooru">
 
-## 一Dev Junior— frankevinherrera-wq <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" /> 
+## Junior Developer— frankevinherrera-wq <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" />
+
 
 <p align="center">
   <a href="https://github.com/frankevinherrera-wq">
@@ -15,14 +16,22 @@
 - Hello everyone, I'm Fran Herrera, from Tarija, Bolivia 🏔️
 - Currently a Systems Engineering student 👨‍🎓
 - Specializing in Backend Development (.NET / C#) & AI Applications (Python, RAG) 🧠
-- Experienced in Linux Systems, Scripting & Embedded Systems 🚀
-- Interested in Data Structures, Systems Architecture &  💻
+- Skilled in Full-Stack development using React & TypeScript 💻
+- Working with Linux Systems, Scripting & Embedded Systems 🚀
+- Interested in Data Structures, Systems Architecture &  Networking💻
 - Welcome to my GitHub! 🍧
 
+### Connect with me 💻
 
-### 社交主页 💻
-- <a href="https://aurorp1g.github.io/"><img height="22" width="22" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/favicon.ico"></a>：这是我的个人网站 🌐
-- <a href="https://space.bilibili.com/2066996205"><img height="22" width="22" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/bilibili.ico"></a>：这是我的Bilibili主页 📺
+<a href="https://linkedin.com/in/tu-usuario-linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:tu-correo@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://github.com/frankevinherrera-wq" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 ### Stack technology 🛠️
 ![Python](https://img.shields.io/badge/-Python-%23fcc624?style=flat&logo=Python)
@@ -58,11 +67,12 @@
 ### programming languages <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
 <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=frankevinherrera-wq&show_icons=true&locale=en&layout=compact&langs_count=11&theme=github_dark_dimmed" alt="frankevinherrera-wq" width="350" height="250">
 
-### Github 状态图 <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
+### Github Stats <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
 ![frankevinherrera-wq's github stats](https://github-stats-extended.vercel.app/api?username=frankevinherrera-wq&show_icons=true&theme=github_dark_dimmed&rank_icon=github)
 
 
-
-![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
-![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
+<p align="center">
+  <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg" width="100%" alt="footer wave" />
+  <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp" width="100%" alt="footer banner" />
+</p>
 
