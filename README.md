@@ -11,7 +11,10 @@
 
 ### About Me <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40" alt="about me"></picture>
 
-<div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" /></div>
+
+<div>
+  <img align="right" src="https://raw.githubusercontent.com/frankevinherrera-wq/frankevinherrera-wq/main/cartoon.webp" width="300" alt="Avatar GIF" />
+</div>
 
 - Hello everyone, I'm Fran Herrera, from Tarija, Bolivia 🏔️
 - Currently a Systems Engineering student 👨‍🎓
