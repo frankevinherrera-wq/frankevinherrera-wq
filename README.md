@@ -5,8 +5,8 @@
 
 <p align="center">
   <a href="https://github.com/frankevinherrera-wq">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=00D2FF&size=24&center=true&vCenter=true&width=1100&height=40&lines=Hello%2C+I'm+Fran+Kevin+Camacho+Herrera+from+Tarija%2C+Bolivia+%F0%9F%97%BB;Systems+Engineering+Student+%F0%9F%8E%93;Backend+Dev+%26+.NET+Architect+(C%23%2C+ASP.NET+Core%2C+EF+Core)+%F0%9F%92%BB;AI+Development+%26+RAG+Pipelines+(Python%2C+LangChain%2C+VectorDB)+%F0%A7%A7%A0;Linux+SysAdmin%2C+Shell+Scripting+%26+Embedded+Systems+(ESP32)+%F0%9F%9A%80;Welcome+to+my+GitHub!+%F0%9F%8F%A7">
-</a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=00D2FF&size=24&center=true&vCenter=true&width=1100&height=40&lines=Hello%2C+I'm+Fran+Kevin+Camacho+Herrera;From+Tarija+%F0%9F%87%B2%F0%9F%87%A8+%2C+Bolivia;Systems+Engineering+Student;Backend+Dev+%26+.NET+Enthusiast+(C%23%2C+ASP.NET+Core)+%F0%9F%92%BB;AI+Applications+%26+RAG+Pipelines+(Python%2C+ChromaDB)+%F0%A7%A7%A0;Full-Stack+Web+Dev+(React%2C+TypeScript)+%F0%9F%8E%A8;Linux+Systems%2C+Shell+%2C+Networking;Welcome+to+my+GitHub!+%F0%9F%8F%A7" alt="Typing SVG" />
+  </a>
 </p>
 
 ### About Me <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40" alt="about me"></picture>
@@ -52,13 +52,34 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=vscode&logoColor=white)
 
 
-### Open-source project <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=frankevinherrera-wq&repo=Fire_AI_Tarija&theme=github_dark_dimmed)](https://github.com/frankevinherrera-wq/Fire_AI_Tarija)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=frankevinherrera-wq&repo=Sensitive_Data_System&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Sensitive_Data_System)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=frankevinherrera-wq&repo=Happy_Birthday&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Happy_Birthday)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=frankevinherrera-wq&repo=Heart-notes&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Heart-notes)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=frankevinherrera-wq&repo=My-Heart&theme=github_dark_dimmed)](https://github.com/Aurorp1g/My-Heart)
-<br>
+### Featured Projects 🚀
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/frankevinherrera-wq/Fire_AI_Tarija">
+        <img src="https://github-vercel-deployment-seven.vercel.app/api/pin/?username=frankevinherrera-wq&repo=Fire_AI_Tarija&theme=github_dark_dimmed" alt="Fire_AI_Tarija" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/frankevinherrera-wq/BookyApi">
+        <img src="https://github-vercel-deployment-seven.vercel.app/api/pin/?username=frankevinherrera-wq&repo=BookyApi&theme=github_dark_dimmed" alt="BookyApi" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/frankevinherrera-wq/Granja">
+        <img src="https://github-vercel-deployment-seven.vercel.app/api/pin/?username=frankevinherrera-wq&repo=Granja&theme=github_dark_dimmed" alt="Granja" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/frankevinherrera-wq/music-app">
+        <img src="https://github-vercel-deployment-seven.vercel.app/api/pin/?username=frankevinherrera-wq&repo=music-app&theme=github_dark_dimmed" alt="music-app" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
@@ -72,7 +93,6 @@
 
 
 <p align="center">
-  <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg" width="100%" alt="footer wave" />
-  <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp" width="100%" alt="footer banner" />
+  <img src="https://raw.githubusercontent.com/frankevinherrera-wq/frankevinherrera-wq/main/footer_wave.svg" width="100%" alt="footer wave" />
+  <img src="https://raw.githubusercontent.com/frankevinherrera-wq/frankevinherrera-wq/main/footer.webp" width="100%" alt="footer banner" />
 </p>
-
